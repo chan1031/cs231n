@@ -1,3 +1,5 @@
 Assignment1  
--KNN classifier구현
--SVM 
+Q1. KNN
+Q2. SVM 
+Q3. Softmax
+Q4. Two layer Neural Network
